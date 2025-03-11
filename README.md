@@ -19,6 +19,8 @@ https://my-product-store-0eap.onrender.com/
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/45413deb-6d4d-4d8f-834b-de6b50bba393)
 ![image](https://github.com/user-attachments/assets/c8f22c73-d6e9-432a-bd77-f09c564bced8)
+![image](https://github.com/user-attachments/assets/29759112-5893-4d42-9281-4c332520a32f)
+
 
 <!-- Replace with correct path -->
 
